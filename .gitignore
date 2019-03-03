@@ -5,3 +5,4 @@ limits-service/limits-service.iml
 
 
 spring-cloud-config-server/spring-cloud-config-server.iml
+currency-exchange-service/currency-exchange-service.iml
