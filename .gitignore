@@ -8,3 +8,4 @@ spring-cloud-config-server/spring-cloud-config-server.iml
 currency-exchange-service/currency-exchange-service.iml
 currency-conversion-service/currency-conversion-service.iml
 netflix-eureka-naming-server/netflix-eureka-naming-server.iml
+netflix-zuul-api-gateway-server/netflix-zuul-api-gateway-server.iml
